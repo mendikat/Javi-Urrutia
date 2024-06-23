@@ -1,6 +1,5 @@
 <h1 style="text-align: center; font-size: 48px;">
     <span style="position: relative; top: -8px;">Javier Urrutia</span>
-    <img src="resources/images/logos/site-logo-192.png" height="48" alt="" />
 </h1>
 <div style="text-align: center;">
     <img src="resources/images/landscapes/mdk_sl0003.png" alt="mendikat" />
