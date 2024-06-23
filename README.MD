@@ -16,7 +16,7 @@
     <li>
       <strong>Desarrollador y arquitecto en
       <a href="https://apply.workable.com/enzyme-advising-group">Strategic Platform</a>
-      <strong>:
+      </strong>:
       Strategic Platform permite crear servicios y productos complejos unificando la visión de modelo de negocio, tecnologías y digitalización inteligente sobre IA, blockchain, bigdata, etc.
     </li>
     <li>
