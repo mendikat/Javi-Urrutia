@@ -14,12 +14,15 @@
   <img height="200" src="/resources/images/javi-urrutia-mendikat.jpg" style="float: left; margin-right: 10px;" />
   <ul>
     <li>
-      Desarrollador y arquitecto en
+      <strong>Desarrollador y arquitecto en
       <a href="https://apply.workable.com/enzyme-advising-group">Strategic Platform</a>
+      <strong>:
       Strategic Platform permite crear servicios y productos complejos unificando la visión de modelo de negocio, tecnologías y digitalización inteligente sobre IA, blockchain, bigdata, etc.
     </li>
     <li>
+      <strong>
       Creador y desarrollador de <a href="https://www.mendikat.net">Mendikat</a>
+      </strong>:
       Mendikat es la auténtica biblia para el montañero con más de 20 años de presencia en la web. Todas las cumbres, con sus rutas, su historia, curiosidades, relatadas por
       por colaboradores expertos que exploran y estudian nuestras montañas.
     </li>
